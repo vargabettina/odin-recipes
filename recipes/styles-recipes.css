@@ -1,0 +1,41 @@
+*{
+    background-color: rgb(189, 189, 249);
+    font-family: 'Courier New', monospace;
+    color:rgb(102, 62, 102);
+}
+
+img{
+    display: block;
+    margin: auto;
+    border:thick double rgb(102, 62, 102) ;
+    width: 540px;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+    margin-left: 30px;
+}
+
+p{
+    font-size: 20px;
+    margin-left: 10px;
+ }
+
+.Ingredients{
+margin: 5px;
+font-size: 20px;
+font-style: italic;
+}
+.Steps{
+    margin: 20px;
+    font-size: 18px;
+}
+
+a{
+    font-size: 30px;
+    margin:30px;
+}
